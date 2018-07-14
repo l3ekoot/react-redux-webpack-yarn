@@ -14,3 +14,6 @@ Step: 5 Install react, react-dom
 - Install: npm react react-dom --save-dev
 Step: 6 Install plugin for generates html
 - Install: npm html-webpack-plugin --save-dev
+Step: 7. Install sass-loader, node-loader
+- Install: npm install sass-loader, node-loader --save-dev
+if install node-loader error, -> install node-loader in global
